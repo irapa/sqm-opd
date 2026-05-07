@@ -29,5 +29,5 @@ Sistema completo para aquisição, armazenamento, análise e visualização de d
 ### 1. Clonar repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/sqm-opd.git
+git clone https://github.com/irapa/sqm-opd.git
 cd sqm-opd
