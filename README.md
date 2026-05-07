@@ -26,11 +26,13 @@ Sistema completo para aquisição, armazenamento, análise e visualização de d
 
 ## 📦 Instalação
 
+Veja o arquivo INSTALL. 
+
+
 ### 1. Clonar repositório
 
 ```bash
 git clone https://github.com/irapa/sqm-opd.git
 cd sqm-opd
-´´´
 
 Veja o arquivo INSTALL. 
