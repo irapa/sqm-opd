@@ -35,7 +35,7 @@ ls /dev/ttyUSB*
 
 ```bash
 cd ~
-git clone https://github.com/SEU_USUARIO/sqm-opd.git
+git clone https://github.com/irapa/sqm-opd.git
 cd sqm-opd
 
 python3 -m venv .venv
